@@ -280,7 +280,9 @@ Sample results obtained while training the Siamese model (backbone: `MobileNetV2
 
 ## 📄 License
 
-This project was developed strictly for **educational and research purposes**. If you use any of the third-party repositories or datasets mentioned in the References section, please review each one's license and terms of use separately.
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+
+If you use any of the third-party repositories or datasets mentioned in the References section, please review each one's license and terms of use separately, as they may differ from this project's license.
 
 <p align="center">
 Built with ❤️ to advance research in document image processing and signature forgery detection
