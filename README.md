@@ -1,4 +1,4 @@
-# ✍️ Signature Intelligence Pipeline
+# ✍️ Persian Signature Detection Restoration and Verification
 ### An End-to-End System for Signature Detection, Restoration, and Verification
 
 <p align="center">
@@ -17,7 +17,7 @@ A three-stage deep learning pipeline to <b>locate</b>, <b>restore</b>, and <b>ve
 
 ---
 
-**Signature Intelligence Pipeline** is an end-to-end deep learning system for analyzing handwritten signatures on scanned documents. It combines three specialized models into a single workflow: **YOLOv5** locates and crops signatures directly from document images, **CycleGAN** restores low-quality, faded, or noisy signatures into clean, usable images, and a **Siamese neural network** (with interchangeable backbones such as MobileNetV2, ResNet50, and Xception) compares two signatures to determine whether they are genuine or forged. Built and trained on Google Colab using the Tobacco-800 and ICDAR 2011 datasets, this project demonstrates a practical, modular approach to automated signature detection, restoration, and forgery verification — useful for banking, legal, and administrative document processing pipelines.
+**Persian Signature Detection Restoration and Verification** is an end-to-end deep learning system for analyzing handwritten signatures on scanned documents. It combines three specialized models into a single workflow: **YOLOv5** locates and crops signatures directly from document images, **CycleGAN** restores low-quality, faded, or noisy signatures into clean, usable images, and a **Siamese neural network** (with interchangeable backbones such as MobileNetV2, ResNet50, and Xception) compares two signatures to determine whether they are genuine or forged. Built and trained on Google Colab using the Tobacco-800 and ICDAR 2011 datasets, this project demonstrates a practical, modular approach to automated signature detection, restoration, and forgery verification — useful for banking, legal, and administrative document processing pipelines.
 
 ---
 
@@ -71,7 +71,7 @@ flowchart LR
 ## 📂 Repository Structure
 
 ```
-signature-intelligence-pipeline/
+Persian-Signature-Detection-Restoration-and-Verification/
 │
 ├── Detection_signature.ipynb          # Stage 1 - Signature localization with YOLOv5
 ├── SIGNATURE_RESTORATION.ipynb        # Stage 2 - Signature restoration/cleanup with CycleGAN
