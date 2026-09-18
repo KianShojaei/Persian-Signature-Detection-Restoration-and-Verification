@@ -288,7 +288,7 @@ pip install gdown pandas scikit-learn matplotlib pillow
 
 ## 📚 References
 
-- *"Using Deep Learning Approaches for Signature Detection and Verification in Persian Document Images"*, MSc Thesis, Shahid Bahonar University of Kerman, Faculty of Engineering, Dept. of Electrical Engineering (Telecommunication Systems), 2024.
+- *"Using Deep Learning for Signature Detection and Verification in Farsi Document images"*, MSc Thesis, Shahid Bahonar University of Kerman, Faculty of Engineering, Dept. of Electrical Engineering (Telecommunication Systems), 2024.
 - Ultralytics YOLOv5 — https://github.com/ultralytics/yolov5
 - pytorch-CycleGAN-and-pix2pix (Jun-Yan Zhu et al.) — https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - Isola et al., "Image-to-Image Translation with Conditional Adversarial Networks" (Pix2Pix, CVPR 2017)
